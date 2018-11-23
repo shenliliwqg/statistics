@@ -1,3 +1,3 @@
 # statistics
 大数据展示平台
-![https://raw.githubusercontent.com/shenliliwqg/statistics/master/images/example.png]
+![网站示例](https://raw.githubusercontent.com/shenliliwqg/statistics/master/images/example.png)
