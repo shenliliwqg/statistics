@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1a4271d-c7ff-4b21-b5fd-0122f7603f2e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/china.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/china.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/echarts.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/echarts.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,26 +19,35 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="706">
-              <caret line="86" column="21" selection-start-line="86" selection-start-column="16" selection-end-line="86" selection-end-column="21" />
+            <state relative-caret-position="744">
+              <caret line="88" column="7" lean-forward="true" selection-start-line="88" selection-start-column="7" selection-end-line="88" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="china.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="china.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/china.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+            <state relative-caret-position="494">
+              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="echarts.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/echarts.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="639">
+              <caret line="1311" lean-forward="true" selection-start-line="1311" selection-end-line="1311" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="echarts.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/echarts.js">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$2/echarts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="27" column="40" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="40" />
+            <state relative-caret-position="570">
+              <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -97,10 +105,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="C:/phpStudy/PHPTutorial/Apache/conf/extra/httpd-vhosts.conf" />
-        <option value="$PROJECT_DIR$/js/echarts.js" />
         <option value="$PROJECT_DIR$/js/changchun.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/china.js" />
+        <option value="$PROJECT_DIR$/js/echarts.js" />
       </list>
     </option>
   </component>
@@ -187,18 +195,18 @@
       <workItem from="1542880072155" duration="835000" />
       <workItem from="1542935132292" duration="12479000" />
       <workItem from="1542956978105" duration="6386000" />
-      <workItem from="1543050815588" duration="674000" />
+      <workItem from="1543050815588" duration="839000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20374000" />
+    <option name="totallyTimeSpent" value="20539000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="946" y="7" width="976" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.020255864" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.05010661" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -324,13 +332,6 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$0/echarts.js" />
-    <entry file="file://$PROJECT_DIR$/js/echarts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="40" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/changchun.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="640">
@@ -340,15 +341,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="706">
-          <caret line="86" column="21" selection-start-line="86" selection-start-column="16" selection-end-line="86" selection-end-column="21" />
+        <state relative-caret-position="744">
+          <caret line="88" column="7" lean-forward="true" selection-start-line="88" selection-start-column="7" selection-end-line="88" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/china.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        <state relative-caret-position="494">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$2/echarts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/echarts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="639">
+          <caret line="1311" lean-forward="true" selection-start-line="1311" selection-end-line="1311" />
         </state>
       </provider>
     </entry>
